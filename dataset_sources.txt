@@ -1,0 +1,4 @@
+obesity_adults:
+https://data.who.int/indicators/i/C6262EC/BEFA58B
+obesity_kids:
+https://data.who.int/indicators/i/C6262EC/EF93DDB

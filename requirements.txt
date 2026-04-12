@@ -1,0 +1,5 @@
+pandas
+numpy
+ipykernal
+matplotlib
+geopandas
