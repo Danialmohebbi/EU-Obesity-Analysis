@@ -2,3 +2,5 @@ obesity_adults:
 https://data.who.int/indicators/i/C6262EC/BEFA58B
 obesity_kids:
 https://data.who.int/indicators/i/C6262EC/EF93DDB
+gpd:
+https://data.worldbank.org/indicator/NY.GDP.PCAP.PP.KD?end=2024&start=1990&view=chart
