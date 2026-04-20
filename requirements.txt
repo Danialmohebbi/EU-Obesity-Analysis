@@ -3,3 +3,4 @@ numpy
 ipykernal
 matplotlib
 geopandas
+scikit-learn
